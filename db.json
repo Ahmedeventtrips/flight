@@ -4,8 +4,8 @@
       "flight_number": "KL101",
       "departure_airport": "AMS",
       "destination_airport": "LHR",
-      "departure_time": "2023-06-07T09:00:00Z",
-      "arrival_time": "2023-06-07T10:15:00Z",
+      "departure_time": "2023-01-07T09:00:00Z",
+      "arrival_time": "2023-01-07T10:15:00Z",
       "duration_minutes": 75,
       "price_per_passenger": 100,
       "available_seats": 30
