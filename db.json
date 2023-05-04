@@ -39,46 +39,6 @@
       "duration_minutes": 165,
       "price_per_passenger": 150,
       "available_seats": 15
-    },
-     {
-      "flight_number": "KL105",
-      "departure_airport": "AMS",
-      "destination_airport": "FRA",
-      "departure_time": "2023-06-25T16:00:00Z",
-      "arrival_time": "2023-06-25T17:15:00Z",
-      "duration_minutes": 75,
-      "price_per_passenger": 125,
-      "available_seats": 20
-    },
-    {
-      "flight_number": "KL106",
-      "departure_airport": "AMS",
-      "destination_airport": "LAX",
-      "departure_time": "2023-07-01T10:00:00Z",
-      "arrival_time": "2023-07-01T18:45:00Z",
-      "duration_minutes": 645,
-      "price_per_passenger": 700,
-      "available_seats": 10
-    },
-    {
-      "flight_number": "KL107",
-      "departure_airport": "AMS",
-      "destination_airport": "SIN",
-      "departure_time": "2023-07-05T12:00:00Z",
-      "arrival_time": "2023-07-06T05:00:00Z",
-      "duration_minutes": 900,
-      "price_per_passenger": 800,
-      "available_seats": 5
-    },
-    {
-      "flight_number": "KL108",
-      "departure_airport": "AMS",
-      "destination_airport": "FCO",
-      "departure_time": "2023-07-10T08:30:00Z",
-      "arrival_time": "2023-07-10T11:15:00Z",
-      "duration_minutes": 165,
-      "price_per_passenger": 200,
-      "available_seats": 15
     }
   ]
 }
