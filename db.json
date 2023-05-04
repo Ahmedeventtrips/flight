@@ -1,0 +1,25 @@
+{
+  "flights": [
+    {
+      "flight_number": "ET101",
+      "departure_airport": "JFK",
+      "destination_airport": "LAX",
+      "departure_time": "2023-06-01T08:00:00Z",
+      "arrival_time": "2023-06-01T11:30:00Z",
+      "duration_minutes": 270,
+      "price_per_passenger": 250,
+      "available_seats": 30
+    },
+    {
+      "flight_number": "ET102",
+      "departure_airport": "JFK",
+      "destination_airport": "LAX",
+      "departure_time": "2023-06-01T12:00:00Z",
+      "arrival_time": "2023-06-01T15:30:00Z",
+      "duration_minutes": 270,
+      "price_per_passenger": 300,
+      "available_seats": 20
+    }
+  ]
+}
+
